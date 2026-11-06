@@ -1,0 +1,941 @@
+{
+  "duration": 14.0,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "animation": "Original illustration sprites; speech-driven limited 2D animation",
+  "word_timing": "Piper model phoneme-duration alignment grouped by word; not manually corrected",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Maya",
+      "text": "Hi! Could I have a cappuccino, please?",
+      "voice": "en_US-ljspeech-medium",
+      "file": "audio/line_01.wav",
+      "sample_rate": 22050,
+      "duration": 2.8947845804988663,
+      "word_timing_method": "Piper model phoneme-duration alignment grouped by word",
+      "word_timing_approximate": false,
+      "words": [
+        {
+          "word": "Hi!",
+          "start": 0.03483,
+          "end": 0.429569
+        },
+        {
+          "word": "Could",
+          "start": 0.723719,
+          "end": 0.897868
+        },
+        {
+          "word": "I",
+          "start": 0.932698,
+          "end": 1.025578
+        },
+        {
+          "word": "have",
+          "start": 1.072018,
+          "end": 1.211338
+        },
+        {
+          "word": "a",
+          "start": 1.246168,
+          "end": 1.304218
+        },
+        {
+          "word": "cappuccino,",
+          "start": 1.362268,
+          "end": 2.105306
+        },
+        {
+          "word": "please?",
+          "start": 2.198186,
+          "end": 2.813515
+        }
+      ],
+      "phonemes": [
+        {
+          "phoneme": "h",
+          "start": 0.03483,
+          "end": 0.12771
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 0.12771,
+          "end": 0.19737
+        },
+        {
+          "phoneme": "a",
+          "start": 0.19737,
+          "end": 0.278639
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 0.278639,
+          "end": 0.429569
+        },
+        {
+          "phoneme": "!",
+          "start": 0.429569,
+          "end": 0.499229
+        },
+        {
+          "phoneme": "k",
+          "start": 0.723719,
+          "end": 0.793379
+        },
+        {
+          "phoneme": "\u028a",
+          "start": 0.793379,
+          "end": 0.874649
+        },
+        {
+          "phoneme": "d",
+          "start": 0.874649,
+          "end": 0.897868
+        },
+        {
+          "phoneme": " ",
+          "start": 0.897868,
+          "end": 0.932698
+        },
+        {
+          "phoneme": "a",
+          "start": 0.932698,
+          "end": 0.990748
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 0.990748,
+          "end": 1.025578
+        },
+        {
+          "phoneme": " ",
+          "start": 1.025578,
+          "end": 1.072018
+        },
+        {
+          "phoneme": "h",
+          "start": 1.072018,
+          "end": 1.141678
+        },
+        {
+          "phoneme": "a",
+          "start": 1.141678,
+          "end": 1.176508
+        },
+        {
+          "phoneme": "v",
+          "start": 1.176508,
+          "end": 1.211338
+        },
+        {
+          "phoneme": " ",
+          "start": 1.211338,
+          "end": 1.246168
+        },
+        {
+          "phoneme": "\u0250",
+          "start": 1.246168,
+          "end": 1.304218
+        },
+        {
+          "phoneme": " ",
+          "start": 1.304218,
+          "end": 1.362268
+        },
+        {
+          "phoneme": "k",
+          "start": 1.362268,
+          "end": 1.408707
+        },
+        {
+          "phoneme": "\u02cc",
+          "start": 1.408707,
+          "end": 1.489977
+        },
+        {
+          "phoneme": "a",
+          "start": 1.489977,
+          "end": 1.571247
+        },
+        {
+          "phoneme": "p",
+          "start": 1.571247,
+          "end": 1.606077
+        },
+        {
+          "phoneme": "u",
+          "start": 1.606077,
+          "end": 1.652517
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 1.652517,
+          "end": 1.698957
+        },
+        {
+          "phoneme": "t",
+          "start": 1.698957,
+          "end": 1.780227
+        },
+        {
+          "phoneme": "\u0283",
+          "start": 1.780227,
+          "end": 1.861497
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.861497,
+          "end": 1.896327
+        },
+        {
+          "phoneme": "i",
+          "start": 1.896327,
+          "end": 1.919546
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 1.919546,
+          "end": 1.965986
+        },
+        {
+          "phoneme": "n",
+          "start": 1.965986,
+          "end": 2.024036
+        },
+        {
+          "phoneme": "\u0259",
+          "start": 2.024036,
+          "end": 2.058866
+        },
+        {
+          "phoneme": "\u028a",
+          "start": 2.058866,
+          "end": 2.105306
+        },
+        {
+          "phoneme": ",",
+          "start": 2.105306,
+          "end": 2.151746
+        },
+        {
+          "phoneme": " ",
+          "start": 2.151746,
+          "end": 2.198186
+        },
+        {
+          "phoneme": "p",
+          "start": 2.198186,
+          "end": 2.267846
+        },
+        {
+          "phoneme": "l",
+          "start": 2.267846,
+          "end": 2.325896
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 2.325896,
+          "end": 2.430385
+        },
+        {
+          "phoneme": "i",
+          "start": 2.430385,
+          "end": 2.592925
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 2.592925,
+          "end": 2.709025
+        },
+        {
+          "phoneme": "z",
+          "start": 2.709025,
+          "end": 2.813515
+        },
+        {
+          "phoneme": "?",
+          "start": 2.813515,
+          "end": 2.883175
+        }
+      ],
+      "peak_dbfs": -0.92,
+      "clipped_samples": 0,
+      "start": 1.15,
+      "end": 4.044784580498867
+    },
+    {
+      "index": 2,
+      "speaker": "Leo",
+      "text": "Of course. Would you like anything to eat?",
+      "voice": "en_US-john-medium",
+      "file": "audio/line_02.wav",
+      "sample_rate": 22050,
+      "duration": 2.6161451247165535,
+      "word_timing_method": "Piper model phoneme-duration alignment grouped by word",
+      "word_timing_approximate": false,
+      "words": [
+        {
+          "word": "Of",
+          "start": 0.05805,
+          "end": 0.19737
+        },
+        {
+          "word": "course.",
+          "start": 0.2322,
+          "end": 0.638549
+        },
+        {
+          "word": "Would",
+          "start": 0.967528,
+          "end": 1.153288
+        },
+        {
+          "word": "you",
+          "start": 1.222948,
+          "end": 1.304218
+        },
+        {
+          "word": "like",
+          "start": 1.339048,
+          "end": 1.571247
+        },
+        {
+          "word": "anything",
+          "start": 1.617687,
+          "end": 1.977596
+        },
+        {
+          "word": "to",
+          "start": 2.035646,
+          "end": 2.151746
+        },
+        {
+          "word": "eat?",
+          "start": 2.233016,
+          "end": 2.465215
+        }
+      ],
+      "phonemes": [
+        {
+          "phoneme": "\u0252",
+          "start": 0.05805,
+          "end": 0.15093
+        },
+        {
+          "phoneme": "v",
+          "start": 0.15093,
+          "end": 0.19737
+        },
+        {
+          "phoneme": " ",
+          "start": 0.19737,
+          "end": 0.2322
+        },
+        {
+          "phoneme": "k",
+          "start": 0.2322,
+          "end": 0.278639
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 0.278639,
+          "end": 0.325079
+        },
+        {
+          "phoneme": "\u0254",
+          "start": 0.325079,
+          "end": 0.394739
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 0.394739,
+          "end": 0.441179
+        },
+        {
+          "phoneme": "s",
+          "start": 0.441179,
+          "end": 0.638549
+        },
+        {
+          "phoneme": ".",
+          "start": 0.638549,
+          "end": 0.684989
+        },
+        {
+          "phoneme": "w",
+          "start": 0.967528,
+          "end": 1.025578
+        },
+        {
+          "phoneme": "\u028a",
+          "start": 1.025578,
+          "end": 1.095238
+        },
+        {
+          "phoneme": "d",
+          "start": 1.095238,
+          "end": 1.153288
+        },
+        {
+          "phoneme": " ",
+          "start": 1.153288,
+          "end": 1.222948
+        },
+        {
+          "phoneme": "j",
+          "start": 1.222948,
+          "end": 1.246168
+        },
+        {
+          "phoneme": "u",
+          "start": 1.246168,
+          "end": 1.269388
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 1.269388,
+          "end": 1.304218
+        },
+        {
+          "phoneme": " ",
+          "start": 1.304218,
+          "end": 1.339048
+        },
+        {
+          "phoneme": "l",
+          "start": 1.339048,
+          "end": 1.397098
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.397098,
+          "end": 1.431927
+        },
+        {
+          "phoneme": "a",
+          "start": 1.431927,
+          "end": 1.478367
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 1.478367,
+          "end": 1.501587
+        },
+        {
+          "phoneme": "k",
+          "start": 1.501587,
+          "end": 1.571247
+        },
+        {
+          "phoneme": " ",
+          "start": 1.571247,
+          "end": 1.617687
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.617687,
+          "end": 1.652517
+        },
+        {
+          "phoneme": "\u025b",
+          "start": 1.652517,
+          "end": 1.698957
+        },
+        {
+          "phoneme": "n",
+          "start": 1.698957,
+          "end": 1.745397
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 1.745397,
+          "end": 1.780227
+        },
+        {
+          "phoneme": "\u03b8",
+          "start": 1.780227,
+          "end": 1.826667
+        },
+        {
+          "phoneme": "\u02cc",
+          "start": 1.826667,
+          "end": 1.861497
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 1.861497,
+          "end": 1.896327
+        },
+        {
+          "phoneme": "\u014b",
+          "start": 1.896327,
+          "end": 1.977596
+        },
+        {
+          "phoneme": " ",
+          "start": 1.977596,
+          "end": 2.035646
+        },
+        {
+          "phoneme": "t",
+          "start": 2.035646,
+          "end": 2.082086
+        },
+        {
+          "phoneme": "\u028a",
+          "start": 2.082086,
+          "end": 2.151746
+        },
+        {
+          "phoneme": " ",
+          "start": 2.151746,
+          "end": 2.233016
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 2.233016,
+          "end": 2.279456
+        },
+        {
+          "phoneme": "i",
+          "start": 2.279456,
+          "end": 2.302676
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 2.302676,
+          "end": 2.337506
+        },
+        {
+          "phoneme": "t",
+          "start": 2.337506,
+          "end": 2.465215
+        },
+        {
+          "phoneme": "?",
+          "start": 2.465215,
+          "end": 2.511655
+        }
+      ],
+      "peak_dbfs": -0.92,
+      "clipped_samples": 0,
+      "start": 4.494784580498867,
+      "end": 7.110929705215421
+    },
+    {
+      "index": 3,
+      "speaker": "Maya",
+      "text": "Yes, a warm croissant would be lovely.",
+      "voice": "en_US-ljspeech-medium",
+      "file": "audio/line_03.wav",
+      "sample_rate": 22050,
+      "duration": 2.2987755102040817,
+      "word_timing_method": "Piper model phoneme-duration alignment grouped by word",
+      "word_timing_approximate": false,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 0.05805,
+          "end": 0.429569
+        },
+        {
+          "word": "a",
+          "start": 0.557279,
+          "end": 0.626939
+        },
+        {
+          "word": "warm",
+          "start": 0.708209,
+          "end": 0.975238
+        },
+        {
+          "word": "croissant",
+          "start": 0.998458,
+          "end": 1.428027
+        },
+        {
+          "word": "would",
+          "start": 1.486077,
+          "end": 1.567347
+        },
+        {
+          "word": "be",
+          "start": 1.613787,
+          "end": 1.776327
+        },
+        {
+          "word": "lovely.",
+          "start": 1.834376,
+          "end": 2.229116
+        }
+      ],
+      "phonemes": [
+        {
+          "phoneme": "j",
+          "start": 0.05805,
+          "end": 0.15093
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 0.15093,
+          "end": 0.20898
+        },
+        {
+          "phoneme": "\u025b",
+          "start": 0.20898,
+          "end": 0.336689
+        },
+        {
+          "phoneme": "s",
+          "start": 0.336689,
+          "end": 0.429569
+        },
+        {
+          "phoneme": ",",
+          "start": 0.429569,
+          "end": 0.476009
+        },
+        {
+          "phoneme": " ",
+          "start": 0.476009,
+          "end": 0.557279
+        },
+        {
+          "phoneme": "\u0250",
+          "start": 0.557279,
+          "end": 0.626939
+        },
+        {
+          "phoneme": " ",
+          "start": 0.626939,
+          "end": 0.708209
+        },
+        {
+          "phoneme": "w",
+          "start": 0.708209,
+          "end": 0.766259
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 0.766259,
+          "end": 0.824308
+        },
+        {
+          "phoneme": "\u0254",
+          "start": 0.824308,
+          "end": 0.870748
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 0.870748,
+          "end": 0.928798
+        },
+        {
+          "phoneme": "m",
+          "start": 0.928798,
+          "end": 0.975238
+        },
+        {
+          "phoneme": " ",
+          "start": 0.975238,
+          "end": 0.998458
+        },
+        {
+          "phoneme": "k",
+          "start": 0.998458,
+          "end": 1.068118
+        },
+        {
+          "phoneme": "w",
+          "start": 1.068118,
+          "end": 1.091338
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.091338,
+          "end": 1.126168
+        },
+        {
+          "phoneme": "\u0251",
+          "start": 1.126168,
+          "end": 1.184218
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 1.184218,
+          "end": 1.265488
+        },
+        {
+          "phoneme": "s",
+          "start": 1.265488,
+          "end": 1.323537
+        },
+        {
+          "phoneme": "\u0251",
+          "start": 1.323537,
+          "end": 1.369977
+        },
+        {
+          "phoneme": "\u0303",
+          "start": 1.369977,
+          "end": 1.428027
+        },
+        {
+          "phoneme": " ",
+          "start": 1.428027,
+          "end": 1.486077
+        },
+        {
+          "phoneme": "w",
+          "start": 1.486077,
+          "end": 1.509297
+        },
+        {
+          "phoneme": "\u028a",
+          "start": 1.509297,
+          "end": 1.532517
+        },
+        {
+          "phoneme": "d",
+          "start": 1.532517,
+          "end": 1.567347
+        },
+        {
+          "phoneme": " ",
+          "start": 1.567347,
+          "end": 1.613787
+        },
+        {
+          "phoneme": "b",
+          "start": 1.613787,
+          "end": 1.683447
+        },
+        {
+          "phoneme": "i",
+          "start": 1.683447,
+          "end": 1.718277
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 1.718277,
+          "end": 1.776327
+        },
+        {
+          "phoneme": " ",
+          "start": 1.776327,
+          "end": 1.834376
+        },
+        {
+          "phoneme": "l",
+          "start": 1.834376,
+          "end": 1.904036
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.904036,
+          "end": 1.962086
+        },
+        {
+          "phoneme": "\u028c",
+          "start": 1.962086,
+          "end": 2.031746
+        },
+        {
+          "phoneme": "v",
+          "start": 2.031746,
+          "end": 2.101406
+        },
+        {
+          "phoneme": "l",
+          "start": 2.101406,
+          "end": 2.171066
+        },
+        {
+          "phoneme": "i",
+          "start": 2.171066,
+          "end": 2.229116
+        },
+        {
+          "phoneme": ".",
+          "start": 2.229116,
+          "end": 2.275556
+        }
+      ],
+      "peak_dbfs": -0.92,
+      "clipped_samples": 0,
+      "start": 7.560929705215421,
+      "end": 9.859705215419503
+    },
+    {
+      "index": 4,
+      "speaker": "Leo",
+      "text": "Perfect. Coming right up!",
+      "voice": "en_US-john-medium",
+      "file": "audio/line_04.wav",
+      "sample_rate": 22050,
+      "duration": 2.140136054421769,
+      "word_timing_method": "Piper model phoneme-duration alignment grouped by word",
+      "word_timing_approximate": false,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 0.06966,
+          "end": 0.580499
+        },
+        {
+          "word": "Coming",
+          "start": 0.897868,
+          "end": 1.211338
+        },
+        {
+          "word": "right",
+          "start": 1.327438,
+          "end": 1.606077
+        },
+        {
+          "word": "up!",
+          "start": 1.745397,
+          "end": 2.058866
+        }
+      ],
+      "phonemes": [
+        {
+          "phoneme": "p",
+          "start": 0.06966,
+          "end": 0.12771
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 0.12771,
+          "end": 0.17415
+        },
+        {
+          "phoneme": "\u025c",
+          "start": 0.17415,
+          "end": 0.22059
+        },
+        {
+          "phoneme": "\u02d0",
+          "start": 0.22059,
+          "end": 0.25542
+        },
+        {
+          "phoneme": "f",
+          "start": 0.25542,
+          "end": 0.325079
+        },
+        {
+          "phoneme": "\u025b",
+          "start": 0.325079,
+          "end": 0.383129
+        },
+        {
+          "phoneme": "k",
+          "start": 0.383129,
+          "end": 0.476009
+        },
+        {
+          "phoneme": "t",
+          "start": 0.476009,
+          "end": 0.580499
+        },
+        {
+          "phoneme": ".",
+          "start": 0.580499,
+          "end": 0.615329
+        },
+        {
+          "phoneme": "k",
+          "start": 0.897868,
+          "end": 0.944308
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 0.944308,
+          "end": 1.013968
+        },
+        {
+          "phoneme": "\u028c",
+          "start": 1.013968,
+          "end": 1.060408
+        },
+        {
+          "phoneme": "m",
+          "start": 1.060408,
+          "end": 1.118458
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 1.118458,
+          "end": 1.141678
+        },
+        {
+          "phoneme": "\u014b",
+          "start": 1.141678,
+          "end": 1.211338
+        },
+        {
+          "phoneme": " ",
+          "start": 1.211338,
+          "end": 1.327438
+        },
+        {
+          "phoneme": "\u0279",
+          "start": 1.327438,
+          "end": 1.385488
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.385488,
+          "end": 1.455147
+        },
+        {
+          "phoneme": "a",
+          "start": 1.455147,
+          "end": 1.489977
+        },
+        {
+          "phoneme": "\u026a",
+          "start": 1.489977,
+          "end": 1.536417
+        },
+        {
+          "phoneme": "t",
+          "start": 1.536417,
+          "end": 1.606077
+        },
+        {
+          "phoneme": " ",
+          "start": 1.606077,
+          "end": 1.745397
+        },
+        {
+          "phoneme": "\u02c8",
+          "start": 1.745397,
+          "end": 1.803447
+        },
+        {
+          "phoneme": "\u028c",
+          "start": 1.803447,
+          "end": 1.896327
+        },
+        {
+          "phoneme": "p",
+          "start": 1.896327,
+          "end": 2.058866
+        },
+        {
+          "phoneme": "!",
+          "start": 2.058866,
+          "end": 2.105306
+        }
+      ],
+      "peak_dbfs": -0.92,
+      "clipped_samples": 0,
+      "start": 10.309705215419502,
+      "end": 12.44984126984127
+    }
+  ]
+}

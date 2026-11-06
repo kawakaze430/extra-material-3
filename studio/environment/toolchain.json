@@ -1,0 +1,32 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux",
+  "machine": "x86_64",
+  "render": {
+    "Pillow": "13.0.0",
+    "numpy": "2.3.5",
+    "FFmpeg": "7.1.5"
+  },
+  "speech": {
+    "piper-tts": "1.8.0",
+    "onnx": "1.23.2",
+    "onnxruntime": "1.31.1",
+    "numpy": "2.5.4"
+  },
+  "gpu_used": false,
+  "image_generation": {
+    "provider": "OpenAI image-generation tool",
+    "model_version": null,
+    "seed": null,
+    "notes": "Hosted image generation was used for the original artwork. No exact model version or seed was returned. Bundled PNGs are the reproducible inputs."
+  },
+  "export": {
+    "duration_seconds": 14.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio_sample_rate": 48000
+  }
+}

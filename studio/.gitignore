@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+speech-venv/
+uv-cache/
+voices/*.onnx
+kaggle/.kaggle-config/
+kaggle/.prepared/
+kaggle/results/
+*.mp4

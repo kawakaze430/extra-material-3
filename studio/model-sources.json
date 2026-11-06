@@ -1,0 +1,53 @@
+{
+  "description": "Pretrained Piper speech artifacts used in the pilot. Large weights are fetched by setup/download_voices.py. No custom model training was performed.",
+  "artifacts": [
+    {
+      "voice": "en_US-ljspeech-medium",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ljspeech/medium/en_US-ljspeech-medium.onnx",
+      "local_path": "voices/en_US-ljspeech-medium.onnx",
+      "sha256": "6f52a751e2349abe7a76735eb09dc1875298c77ea2342ffd2fef79ff81b87f22",
+      "bundled": false,
+      "kind": "weights"
+    },
+    {
+      "voice": "en_US-ljspeech-medium",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ljspeech/medium/en_US-ljspeech-medium.onnx.json",
+      "local_path": "voices/en_US-ljspeech-medium.onnx.json",
+      "sha256": "141d612cc0a95ed7efc1ca936b845c2364967f2e9217c5dbfcf69fc4d6c65860",
+      "bundled": true,
+      "kind": "configuration"
+    },
+    {
+      "voice": "en_US-ljspeech-medium",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ljspeech/medium/MODEL_CARD",
+      "local_path": "voices/ljspeech_MODEL_CARD.txt",
+      "sha256": "fbee1529c89d36b3fe76d7e9f3f832dce17f44900a52d76a9bda735654766b4d",
+      "bundled": true,
+      "kind": "model_card"
+    },
+    {
+      "voice": "en_US-john-medium",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/john/medium/en_US-john-medium.onnx",
+      "local_path": "voices/en_US-john-medium.onnx",
+      "sha256": "789c6c875726e627ddee93d51d8727859abe9c091c3d141591f4b83c2072e988",
+      "bundled": false,
+      "kind": "weights"
+    },
+    {
+      "voice": "en_US-john-medium",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/john/medium/en_US-john-medium.onnx.json",
+      "local_path": "voices/en_US-john-medium.onnx.json",
+      "sha256": "af60f177b6b550f3d7a302720c0fb89e7f94a82b5dca464775ef63b1c69ba09a",
+      "bundled": true,
+      "kind": "configuration"
+    },
+    {
+      "voice": "en_US-john-medium",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/john/medium/MODEL_CARD",
+      "local_path": "voices/john_MODEL_CARD.txt",
+      "sha256": "a056da65cd70dcbda96fc3420fe8d3442dbf3c8b75f49cdf800a715b42e299d1",
+      "bundled": true,
+      "kind": "model_card"
+    }
+  ]
+}

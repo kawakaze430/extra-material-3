@@ -1,0 +1,32 @@
+{
+  "title": "A Little Coffee Break",
+  "characters": ["Maya", "Leo"],
+  "style": "Original illustrated 2D cafe conversation",
+  "intro_seconds": 1.15,
+  "gap_seconds": 0.45,
+  "outro_seconds": 1.55,
+  "dialogue_metadata": "audio/dialogue.json",
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "voice": "ljspeech",
+      "text": "Hi! Could I have a cappuccino, please?"
+    },
+    {
+      "speaker": "Leo",
+      "voice": "john",
+      "text": "Of course. Would you like anything to eat?"
+    },
+    {
+      "speaker": "Maya",
+      "voice": "ljspeech",
+      "text": "Yes, a warm croissant would be lovely."
+    },
+    {
+      "speaker": "Leo",
+      "voice": "john",
+      "text": "Perfect. Coming right up!"
+    }
+  ],
+  "note": "Mouth and body animation uses eight original illustrated poses per character. New dialogue requires regenerating audio and alignment metadata."
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+speech-venv/
+uv-cache/
+.env
+.env.*
+!.env.example
+kaggle.json
+credentials.json
+access_token
+studio/voices/*.onnx
+studio/kaggle/.prepared/
+studio/kaggle/.kaggle-config/
+studio/kaggle/results/
+studio/*.mp4
