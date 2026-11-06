@@ -1,0 +1,15 @@
+1
+00:00:01,150 --> 00:00:04,045
+Maya: Hi! Could I have a cappuccino, please?
+
+2
+00:00:04,495 --> 00:00:07,111
+Leo: Of course. Would you like anything to eat?
+
+3
+00:00:07,561 --> 00:00:09,860
+Maya: Yes, a warm croissant would be lovely.
+
+4
+00:00:10,310 --> 00:00:12,450
+Leo: Perfect. Coming right up!
